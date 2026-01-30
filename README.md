@@ -1,5 +1,5 @@
 strawberry
-is
+isnt
 better
 than
 blueberry
